@@ -155,7 +155,7 @@ const initialValue = [
     children: [
       {
         text:
-          'Order when you start a line with "## " you get a level-two heading, like this:',
+          'Or when you start a line with "## " you get a level-two heading, like this:',
       },
     ],
   },
@@ -168,7 +168,7 @@ const initialValue = [
     children: [
       {
         text:
-          'Try it out for yourself! Try starting a new line with ">", "-", or "#"s.',
+          'Try it out for yourself! Try starting a new line with ">", "-", or "#"s. Put a space after the markdown symbol, then type your formatted text!',
       },
     ],
   },
